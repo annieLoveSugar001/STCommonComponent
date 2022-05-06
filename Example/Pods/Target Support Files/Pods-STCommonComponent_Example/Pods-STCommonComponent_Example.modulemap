@@ -1,0 +1,6 @@
+framework module Pods_STCommonComponent_Example {
+  umbrella header "Pods-STCommonComponent_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,10 +1,4 @@
-//
-//  STAppDelegate.m
-//  STCommonComponent
-//
-//  Created by annie on 05/06/2022.
-//  Copyright (c) 2022 annie. All rights reserved.
-//
+
 
 #import "STAppDelegate.h"
 

@@ -1,0 +1,16 @@
+PODS:
+  - STCommonComponent (0.1.0)
+
+DEPENDENCIES:
+  - STCommonComponent (from `../`)
+
+EXTERNAL SOURCES:
+  STCommonComponent:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  STCommonComponent: b70b71f49d54b857bcab9a45e3935bf39014060f
+
+PODFILE CHECKSUM: b85534e8c679ee86d736d414413a4f4d24e4f443
+
+COCOAPODS: 1.11.2

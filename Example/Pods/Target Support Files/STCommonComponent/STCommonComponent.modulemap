@@ -1,0 +1,6 @@
+framework module STCommonComponent {
+  umbrella header "STCommonComponent-umbrella.h"
+
+  export *
+  module * { export * }
+}

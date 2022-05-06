@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'STCommonComponent'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of STCommonComponent.'
+  s.summary          = '封装常用的类'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -21,11 +21,11 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/annie/STCommonComponent'
+  s.homepage         = 'https://github.com/annieLoveSugar001/STCommonComponent'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'annie' => 'annielovesugar001@163.com' }
-  s.source           = { :git => 'https://github.com/annie/STCommonComponent.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/annieLoveSugar001/STCommonComponent.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '9.0'
